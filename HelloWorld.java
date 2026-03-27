@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static void printMessage() {
-        System.out.println("Hello from main branch!");
+        System.out.println("Hello from any and all branches!");
     }
 
     public static void main(String[] args) {
